@@ -20,9 +20,11 @@ real world whilst expanding my network.
 
 
 ## 🛠 Skills
-Programming - HTML, CSS, Js, PHP, C, C++, JAVA
+Programming - HTML, CSS, Js, PHP, Python, C, C++, JAVA
+![image](https://user-images.githubusercontent.com/46078999/217010274-1fc52ce3-9cb2-458e-b84e-ddec3fce8c1a.png)
+![image](https://user-images.githubusercontent.com/46078999/217009804-2212a732-6880-4c43-9998-27cc2194f6ff.png)
 
-Databases - MySQL, Oracle, Azure
+Databases - MySQL, Oracle
 
 <!--
 **arifm0hd/arifm0hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
