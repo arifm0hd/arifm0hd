@@ -21,6 +21,7 @@ real world whilst expanding my network.
 
 ## 🛠 Skills
 Programming - HTML, CSS, Js, PHP, Python, C, C++, JAVA
+
 Databases - MySQL, Oracle
 
 <!--
