@@ -8,7 +8,7 @@ real world whilst expanding my network.
 
 
 ## About Me
-🎓 3rd Year Software Engineering student, Universiti Islam Antarabangsa (🇲🇾)
+🎓 3rd Year Software Engineering student, International Islamic University Malaysia (🇲🇾)
 
 🧠 Currently learning dart and flutter for app development
 
@@ -21,9 +21,6 @@ real world whilst expanding my network.
 
 ## 🛠 Skills
 Programming - HTML, CSS, Js, PHP, Python, C, C++, JAVA
-![image](https://user-images.githubusercontent.com/46078999/217010274-1fc52ce3-9cb2-458e-b84e-ddec3fce8c1a.png)
-![image](https://user-images.githubusercontent.com/46078999/217009804-2212a732-6880-4c43-9998-27cc2194f6ff.png)
-
 Databases - MySQL, Oracle
 
 <!--
