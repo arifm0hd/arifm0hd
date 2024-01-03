@@ -1,18 +1,11 @@
 # Hi, I'm Arif 👋🏽👨🏽‍💻
 
-A student in his 3rd year specializing in software engineering who is
-actively participating in Tech Twitter and willing to
-learn more in order to thrive in Web3. On the side, I
-do business in my free time to expose myself to the
-real world whilst expanding my network.
-
+A final year Computer Science student specializing in Software Engineering (SE) who found himself in the realm of understanding users. My interests include Requirements Engineering, UI/UX, Product Management & Development, and Technopreneurship. On the side, I dabble with extracurricular activities and business exposing myself to the real world and expanding my network.
 
 ## About Me
-🎓 3rd Year Software Engineering student, International Islamic University Malaysia (🇲🇾)
+🎓 Final Year Software Engineering student, International Islamic University Malaysia (🇲🇾)
 
-🧠 Currently learning dart and flutter for app development
-
-👯‍♀️ Looking to collaborate with randoms on any project 
+🧠 Currently learning to build UI for mobile app using just JAVA
 
 🙇🏽 Former F&B Intern (not FB :') 
 
