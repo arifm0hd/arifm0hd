@@ -15,7 +15,7 @@ A final year Computer Science student specializing in Software Engineering (SE) 
 ## 🛠 Skills
 Programming - HTML, CSS, Js, PHP, Python, C, C++, JAVA
 
-Databases - MySQL, Oracle
+Databases - Oracle, MySQL, MongoDB(Trying to learn now)
 
 <!--
 **arifm0hd/arifm0hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
